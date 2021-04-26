@@ -102,4 +102,18 @@ section #res a{
 section #res a:hover{
     color: rgba(241, 19, 19, 0.842);    
 }
+footer{
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+    position: fixed;
+    background-color: rgba(216, 216, 216, 0.164);
+}
+footer p{
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 6px 0;
+}
 
